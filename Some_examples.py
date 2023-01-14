@@ -84,11 +84,13 @@ plt.xlabel('price')
 plt.ylabel('volume')
 plt.title('supply and demand')
 plt.show()
+"""
 supply_and_demand1.savefig("supply_and_demand1.pdf",\
 dpi=300, facecolor='w', edgecolor='w',\
 orientation='portrait', papertype=None, format=None,\
 transparent=False, bbox_inches=None, pad_inches=0.1,\
 frameon=None)
+"""
 
 '''
 
@@ -162,11 +164,13 @@ plt.xlabel('price')
 plt.ylabel('volume')
 plt.title('supply and demand')
 plt.show()
+"""
 supply_and_demand2.savefig("supply_and_demand2.pdf",\
 dpi=300, facecolor='w',edgecolor='w',\
 orientation='portrait', papertype=None,\
 format=None,transparent=False, bbox_inches=None,\
 pad_inches=0.1,frameon=None)
+"""
 
 '''
 
@@ -247,11 +251,13 @@ plt.xlabel('price')
 plt.ylabel('volume')
 plt.title('supply and demand')
 plt.show()
+"""
 supply_and_demand3.savefig("supply_and_demand3.pdf",\
 dpi=300, facecolor='w', edgecolor='w',\
 orientation='portrait', papertype=None, format=None,\
 transparent=False, bbox_inches=None, pad_inches=0.1,\
 frameon=None)
+"""
 
 '''
 
@@ -332,11 +338,13 @@ plt.xlabel('price')
 plt.ylabel('volume')
 plt.title('supply and demand')
 plt.show()
+"""
 supply_and_demand4.savefig("supply_and_demand4.pdf",\
 dpi=300, facecolor='w', edgecolor='w',\
 orientation='portrait', papertype=None, format=None,\
 transparent=False, bbox_inches=None, pad_inches=0.1,\
 frameon=None)
+"""
 
 '''
 
