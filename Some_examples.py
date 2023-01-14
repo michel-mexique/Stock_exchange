@@ -386,6 +386,7 @@ fillVolume=91
 
 '''
 
+simulation4.fillOrders()
 pprint(simulation4.clients)
 pprint(simulation4.buys)
 pprint(simulation4.sells)
