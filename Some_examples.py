@@ -12,6 +12,7 @@ the comments.
 
 from sortedcontainers import SortedDict
 import matplotlib.pyplot as plt
+from pprint import pprint
 import MatchingEngine
 
 class Simulation(MatchingEngine.MatchingEngine):
@@ -384,3 +385,7 @@ fillPrice=98.19
 fillVolume=91
 
 '''
+
+pprint(simulation4.clients)
+pprint(simulation4.buys)
+pprint(simulation4.sells)
